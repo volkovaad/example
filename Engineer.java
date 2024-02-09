@@ -10,6 +10,8 @@ public class Engineer {
         this.position = position;
     }
 
+    // getter setter
+
     public String getName() {
         return name;
     }
